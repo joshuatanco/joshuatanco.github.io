@@ -2,6 +2,8 @@
 
 <div align="center"><img src="josh-baguio.jpg" width="200" height="200" alt="description-of-image" /></div>
 
+<a href="mailto:joshutanco17@gmail.com">Contact Me</a>
+
 
 You can use the [editor on GitHub](https://github.com/joshuatanco17/joshuatanco.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
